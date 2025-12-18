@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あなたが知らない貴方のうた",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-18T04:06:35.681778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたが知らない貴方のうた",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_あなたが知らない貴方のうた_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたが知らない貴方のうた",
+      "artist": "Yuika",
+      "has_synced": true,
+      "path": "select/02_あなたが知らない貴方のうた_Yuika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたが知らない貴方のうた",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_あなたが知らない貴方のうた_『ユイカ』.txt"
+    }
+  ]
+}
